@@ -32,7 +32,7 @@ https://www.mvtec.com/company/research/datasets/mvtec-ad/
 
 
 ### Scatter plot of difference scores generated from SSIM and L2 metric 
-Blue: Non anomlaous tesing image
+Blue: Non anomlaous tesing image <br>
 Green: Anomlaous testing image
 
 ![Sample visuals of SSIM difference metric](/visuals/2.PNG)
