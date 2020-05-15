@@ -28,6 +28,6 @@ https://www.mvtec.com/company/research/datasets/mvtec-ad/
 
 
 
-![Sample visuals of SSIM difference metric](link-to-image)
+![Sample visuals of SSIM difference metric](/visuals/1.PNG)
 
 
