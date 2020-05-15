@@ -26,8 +26,15 @@ https://www.mvtec.com/company/research/datasets/mvtec-ad/
 - Alexnet seems to be not deep enough as an contraction path, need deeper autoencoder
 - Even non-anomalous images give some considerable difference score when compared to the reconsturcted image, need to introduce some robustness
 
-
+### SSIM difference image between the original (anomalous) and reconstructed image
 
 ![Sample visuals of SSIM difference metric](/visuals/1.PNG)
+
+
+### Scatter plot of difference scores generated from SSIM and L2 metric 
+Blue: Non anomlaous tesing image
+Green: Anomlaous testing image
+
+![Sample visuals of SSIM difference metric](/visuals/2.PNG)
 
 
