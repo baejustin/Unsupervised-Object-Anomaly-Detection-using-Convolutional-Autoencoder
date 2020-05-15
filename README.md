@@ -22,5 +22,12 @@ https://www.mvtec.com/company/research/datasets/mvtec-ad/
 - SSIM Loss function -> images need to be preprocessed to grayscale for optimal performance
 - Segment and visualize the defect using two difference images: SSIM metric & L2 metric
 
+## Room for improvements
+- Alexnet seems to be not deep enough as an contraction path, need deeper autoencoder
+- Even non-anomalous images give some considerable difference score when compared to the reconsturcted image, need to introduce some robustness
+
+
+
+![Sample visuals of SSIM difference metric](link-to-image)
 
 
